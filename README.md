@@ -4,4 +4,4 @@
 - Lab 2 - Merge Sort, Polyphase Merge Sort
 - Lab 3 - Doubly Linked List
 - Lab 4 - Binary Search Tree, AVL Tree
-- Lab 5 - (Work in progress)
+- Lab 5 - Hashing
